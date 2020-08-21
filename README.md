@@ -15,5 +15,5 @@ Contents:
 | Name | Type | Description |
 | --- | --- | --- |
 | `curry` | function | A function designed to make it easier partial application in python |
-| `compose `| function | A function which arranges a stream of *pure functions* into one pipeline for *map* applications |
+| `compose` | function | A function which arranges a stream of *pure functions* into one pipeline for *map* applications |
 
